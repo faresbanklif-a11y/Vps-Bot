@@ -37,7 +37,7 @@ logger = logging.getLogger("SecureBot")
 TOKEN = "8469488876:AAFxGLdbBOB0xYbRcPokw_YFH0VTKaOmRA4"
 ADMIN_ID = 8018653004
 YOUR_USERNAME = "@far_es_ban"
-CHANNEL_USERNAME = "@fareshw"
+CHANNEL_USERNAME = "https://t.me/fareshw"
 
 
 bot = telebot.TeleBot(TOKEN)
