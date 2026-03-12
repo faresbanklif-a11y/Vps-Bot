@@ -35,8 +35,8 @@ logger = logging.getLogger("SecureBot")
 
 
 TOKEN = "8406671676:AAH60tLuqHb88G_kVyELs7fMHUkGbtdrSMU"
-ADMIN_ID = 8018653004
-YOUR_USERNAME = "@far_es_ban"
+ADMIN_ID = 7518849797
+YOUR_USERNAME = "@@TheVenerableCelestian"
 CHANNEL_USERNAME = "@fareshw"
 
 
